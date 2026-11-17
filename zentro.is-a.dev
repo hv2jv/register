@@ -1,1 +1,9 @@
-
+{
+  "owner": {
+    "username": "hv2jv"
+  },
+  "records": {
+    "CNAME": "headlamp-outplayed-important.ngrok-free.dev"
+  },
+  "proxied": false
+}
